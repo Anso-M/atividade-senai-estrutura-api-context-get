@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Anso\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\Anso\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Anso\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\Anso\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Anso\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Anso\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\Anso\\Downloads\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Anso\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Anso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Anso\\Downloads\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Anso\\Downloads\\MATERIAL-PARA-O-ALUNO-FAZER-ATIVIDADE\\Exo.WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Anso\\AppData\\Roaming\\NuGet\\NuGet.Config"
